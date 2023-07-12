@@ -1,5 +1,5 @@
 {
-    "pizza": [
+    "food": [
         {
             "id": 0,
             "name": "Margherita",
@@ -311,11 +311,9 @@
             "vegetarian": false,
             "price": 28.5,
             "image": "https://i.imgur.com/cYpO8RT.png"
-        }
-    ],
-    "pasta": [
+        },
         {
-            "id": 0,
+            "id": 19,
             "name": "Bolognese",
             "description": "",
             "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
@@ -325,7 +323,7 @@
             "image": "https://i.imgur.com/IXDJ52k.png"
         },
         {
-            "id": 1,
+            "id": 20,
             "name": "Carbonara",
             "description": "",
             "ingredients": [
@@ -338,11 +336,9 @@
             "vegetarian": true,
             "price": 28.0,
             "image": "https://i.imgur.com/3jKSuUu.png"
-        }
-    ],
-    "salads": [
+        },
         {
-            "id": 0,
+            "id": 22,
             "name": "Caesar",
             "description": "",
             "ingredients": [
@@ -361,7 +357,7 @@
             "image": "https://i.imgur.com/QWXH2NC.png"
         },
         {
-            "id": 1,
+            "id": 23,
             "name": "Greek",
             "description": "",
             "ingredients": [
@@ -382,7 +378,7 @@
             "image": "https://i.imgur.com/qChqf83.png"
         },
         {
-            "id": 2,
+            "id": 24,
             "name": "Tuna",
             "description": "",
             "ingredients": [
@@ -400,10 +396,9 @@
             "price": 20,
             "image": "https://i.imgur.com/Ph0IjrX.png"
         }
-    ],
-    "dessert": [
+        ,
         {
-            "id": 0,
+            "id": 25,
             "name": "Brownie",
             "description": "A delicious cake with chocolate and hazelnuts",
             "ingredients": [],
@@ -413,7 +408,7 @@
             "image": "https://i.imgur.com/7WbfaDN.png"
         },
         {
-            "id": 1,
+            "id": 26,
             "name": "Chocolate Tortilla",
             "description": "Tortilla filled with chocolate cream",
             "ingredients": [],
@@ -423,7 +418,7 @@
             "image": "https://i.imgur.com/Mgsc3IZ.png"
         },
         {
-            "id": 2,
+            "id": 27,
             "name": "Apple Pie",
             "description": "Hot pie with apple and cinnamon",
             "ingredients": [],
@@ -433,7 +428,7 @@
             "image": "https://i.imgur.com/OWIVhWX.png"
         },
         {
-            "id": 3,
+            "id": 28,
             "name": "Cheesecake",
             "description": "Cheesecake with berries topping",
             "ingredients": [],
